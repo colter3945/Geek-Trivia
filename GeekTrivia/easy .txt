@@ -1,0 +1,46 @@
+1001#Fill in the blank: _________ by day, Batman by night$bruce wayne
+1002#Fill in the blank: Up in the sky, look: It's a bird. It's a plane. It's _________!$superman
+1003#You don’t want to make this member of The Avengers mad...$Theincrediblehulk
+1004#I am also known as billionaire playboy Tony Stark... Who am I?$Ironman
+1005#I wield an Asgardian hammer only the pure of spirit can lift... Who am I$Thor
+1006#With super human strength gained from the Super Soldier Serum, I battle using a near indestructible shield... Who am I?$captain america
+1007#Who is Bruce Wayne's butler?$alfred pennyworth
+1008#Fill in the blank: I work at a newspaper company known as The Daily Planet. Some know me as Clark Kent others know me as __________$superman
+1009#My name is Batman. What city do I protect?$gotham
+1010#My name is Superman. What city do I protect$metropolis
+1011#Fill in the blank: I work as a photographer for a newspaper... Some know me as Peter Parker, others know me as _______$spider-man
+1012#With a scar in the shape of a lightning bolt and my Petronas is a stag... Who am I?$Harry Potter
+1013#I am Harry Potter's loyal, male, ginger companion... Who am I?$ron weasley
+1014#I am played by actress Emma Watson in the Harry Potter film series... Who am I?$hermione granger
+1015#In the X-men comic series, who was the founder and creator of the X-men$professor x
+1016#What team included Thor, the Hulk, Giant-man, the Wasp and Iron Man as the founding members$the avengers
+1017#FIll in the blank: I have claws made from Adamantium...Some know me as Logan, some know me as James Howlett. The X-men know me as _______$Wolverine
+1018#Fill in the blank: I am one of the most powerful super mutants on earth. I have the power of weather control. The X-men know me as$storm
+1019#What is the name of Dr. Who's vehicle$tardis
+1020#Fill in the blank: May the ________ be with you$force
+1021#Fill in the blank: Live long and ________$prosper
+1022#When Bruce Banner gets mad he becomes this green monster$The incredible hulk
+1023#Fill in the blank: A long long time ago in a ________ far away$galaxy
+1024#________ is a giant spherical space station constructed by the Galactic Empire, controlled by none other than Darth Vader$The death star
+1025#How are Luke and Leia related$they are twins, siblings, brother and sister
+1026#Aquaman is king of this lost city$atlantis
+1027#Jonny Storm of the Fantastic Four is also known as$Human torch
+1028#The son of Odin: King of Agartha$thor
+1029#Fill in the blank: Luke I am your ________$Father
+1030#Who becomes Darth Vader after turning to the dark side$Anakin skywalker
+1031#I am known for being the captain of the Millennium Falcon, and some will tell you that I shot first$Han Solo
+1032#I'm a Wookie known for being best friends with Han Solo$Chewbaca, Chewy
+1033#Thor's mischievous brother$loki
+1034#The subject of Superman's effections$Lois lane 
+1035#The subject of Spider-Man's effections$Mary Jane Watson and Gwen Stacy
+1036#Batman's primary arch enemy$Joker
+1037#The joker's female sidekick, who is madly in love with her 'Mr. J'$Harley quinn
+1038#The Avengers, Dr. strange, Guardians of the Galaxy and the X-men all are part of the comic Universe$marvel
+1039#Batman, Superman and the Suicide Squad are all part of this comic universe$ DC comics
+1040#Harry Potter's arch nemesis aka 'he who must not be named'$Voldemort
+1041#Extra-terrestrial race of mutants that are collectively the greatest enemies of Doctor Who$dalek
+1042#I am known as a Time Lord, there have been 12 of me to date$Dr who
+1043#James T kirk, Spock and McCoy all belong to this classic show$startrek
+1044#Name of the ship that Captain Kirk commands$uss enterprise 
+1045#the agency that supports The Avengers$S.H.I.E.L.D or shield
+1046#Superman, Batman, Wonder Woman and The Green Lantern all belong to this crime fighting group$Justice league
