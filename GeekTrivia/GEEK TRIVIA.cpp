@@ -230,7 +230,7 @@ void hard(){
 	if(inFile.is_open())
 	{//generate random number to choose question 
 		srand(static_cast<int>(time(0)));
-		randNum = 1001 + rand() % (1046 - 1001 + 1);
+		randNum = 1001 + rand() % (1016 - 1001 + 1);
 		cin.ignore(1000, '\n');
 		getline(inFile, qNum, '#');
 		getline(inFile, quest, '$');
@@ -279,7 +279,7 @@ void hard(){
 				}//end if
 			}// end if
 			srand(static_cast<int>(time(0)));
-			randNum = 1001 + rand() % (1046 - 1001 + 1);
+			randNum = 1001 + rand() % (1016 - 1001 + 1);
 		}//end while
 		cout << "Your score is " << score << "/15" << endl;
 		cout << "'You're much stronger than you think you are. Trust me.' - Superman " << endl;
