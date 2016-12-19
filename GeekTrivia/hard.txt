@@ -12,5 +12,5 @@
 1012#Who is the most hated character in the Star Wars universe?$jar jar binks
 1013#Who wrote the Star Wars books?$george Lucas
 1014#What phrase is said in every Star Wars film?$i have a bad feeling about this
-1015#What famous phrase did Captain Kirk never say?$beam me up scotty
+1015#What famous phrase did Captain Kirk never say though he famously said these words$beam me up scotty
 1016#This show had the first interracial kiss$star trek, startrek
