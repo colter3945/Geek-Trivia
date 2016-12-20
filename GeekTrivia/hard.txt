@@ -1,6 +1,6 @@
 1001#What year was Star Trek first aired?$1966
 1002#Fill in the Blank: The Hulk / Bruce Banner has a son named _______$Skaar
-1003#The source of Juggernauts power$gem of Hydrate
+1003#The source of Juggernauts power$Gem of Hydrate
 1004#DC Comics and Marvel co-own what word$superhero
 1005#Marvel comics own the rights to this word refering to the undead word$zombie
 1006#The most famous Writer of Marvel comics$stan lee
