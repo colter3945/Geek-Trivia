@@ -8,9 +8,9 @@
 1008#What was Wonder Woman’s original name?$suprema
 1009#This DC supervillain was once and Ambassador to the UN$Joker
 1010#Spider-Man's web is part of his powers and is self-producing. True or False?$false, f
-1011#What language is the Jawa language based off of?$Zulu
+1011#What language is the Jawa language based off of$Zulu
 1012#Who is the most hated character in the Star Wars universe?$jar jar binks
 1013#Who wrote the Star Wars books?$george Lucas
-1014#What phrase is said in every Star Wars film?$i have a bad feeling about this
+1014#What phrase is said in every Star Wars film$i have a bad feeling about this
 1015#What famous phrase did Captain Kirk never say though he famous for saying these words$beam me up scotty
 1016#This show had the first interracial kiss$star trek, startrek
